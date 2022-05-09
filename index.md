@@ -2,6 +2,9 @@
 layout: default
 ---
 
+Going to be using this site/page to put together schedules and plans for CTF events and things like that. 
+Might end up developing a new theme and maybe a plugin or two. Dust off my Ruby skills.
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
