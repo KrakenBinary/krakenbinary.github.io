@@ -1,5 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: krakenbinary/log
+description: This site is used for keeping notes and info in a blog format.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
